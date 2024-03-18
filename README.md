@@ -53,14 +53,15 @@ This directory contains reusable React components that can be utilized across mu
 
 ## Available Components
 
-|---------------------------------------------------------------------------------------------------------------|
-| Maps                        | A component for displaying maps on profile
+| Components   | Description                                                                                                     |
+|-------------|-----------------------------------------------------------------------------------------------------------------|
+| Maps                        | A component for displaying maps on profile|
 | Search Bar                  | A searchable  component that allows users to search firts, last names,email and phone                           |
 | Grid View for Data Listing  | Displays data in a grid format, suitable for presenting a collection of items with uniform structure.         |
 | Data Table for Listing      | Presents tabular data with feature  such as filtering on the basis of gender, and pagination for effective data representation. |
 | Pagination for Data Table   | Implements pagination functionality for splitting large datasets into manageable pages.                       |
-| Search                      | Provides a search input component for users to search for search firts, last names,email and phone                           | within a given dataset.               |
-| User Info                   | Displays user information, such as profile details or user preferences.                                        |
+| Search                      | Provides a search input component for users to search for search firts, last names,email and phone within a given dataset. |
+| User Info                   | Displays user information, such as profile details or user preferences.                                     |
 
 ## Functionalities
 - Loader when data is being loaded. 
